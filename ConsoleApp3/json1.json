@@ -1,0 +1,1857 @@
+{
+  "assetByAssetId": {
+    "13066YTY5": {
+      "assetId": "13066YTY5",
+      "BND_MUNITAX": {
+        "accrualDt": "2016-09-28",
+        "amt": "N",
+        "amtIsu": 251825000,
+        "calcType": 46,
+        "cdInstmtType": "UNKNOWN",
+        "ceSet": {
+          "ceRecord": [
+            {
+              "conditional": "D",
+              "maturity": "2021-05-01",
+              "pct": 100,
+              "provider": "C21855",
+              "providerid": "C21855",
+              "startDate": "2016-09-28",
+              "type": "U"
+            }
+          ]
+        },
+        "changeDt": "2018-09-24T09:22:39.556Z",
+        "compoundFlag": 0,
+        "conduit": "N",
+        "country": "US",
+        "coupFreq": "S",
+        "couponFix": 1.713,
+        "cpnType": "F",
+        "currency": "USD",
+        "cusip": "13066YTY5",
+        "cusip2Set": {
+          "cusip2Record": [
+            {
+              "code": "A",
+              "identifier": "13066YTY5"
+            },
+            {
+              "code": "I",
+              "identifier": "US13066YTY58"
+            }
+          ]
+        },
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 8001,
+              "identifier": "903588987",
+              "orgid": 8001,
+              "purpose": "DEBTID"
+            },
+            {
+              "code": 145986,
+              "identifier": "ESL4731353",
+              "orgid": 145986,
+              "purpose": "ESI"
+            },
+            {
+              "code": 145986,
+              "identifier": "F_11896733",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            },
+            {
+              "code": 145986,
+              "identifier": "F_14302522",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            }
+          ]
+        },
+        "cusipType": "CUSIP",
+        "dateConv": "D30360",
+        "descInstmt": "CALIFORNIA ST DEPT WTR RES PWR",
+        "descInstmt2": "2016P",
+        "endAdjFlag": "N",
+        "firstPayDt": "2017-05-01",
+        "firstPrinDt": "2017-05-01",
+        "firstSettleDt": "2016-09-28",
+        "flag144a": "N",
+        "flagDeriv": "N",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "flagPerforming": "Y",
+        "funding": "REV",
+        "issueDt": "2016-09-28",
+        "issuePrice": 100,
+        "issueYield": 1.713,
+        "issuerId": "D35715",
+        "leadMgr": "GOLDMAN SACHS & CO (GS)",
+        "liquidity": "L",
+        "market": "US",
+        "marketIssue": "NEGOTIATED",
+        "maturity": "2021-05-01",
+        "minLotSize": 5000,
+        "minTrdSize": 5000,
+        "modifiedBy": "adapjoy",
+        "mtn": "N",
+        "muniType": "NONE",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2018-03-19",
+              "instmt": "Factor schedule reflected to match sink schedule",
+              "seqNum": 1,
+              "userId": "p9kpadhi"
+            },
+            {
+              "effDt": "2018-03-26",
+              "instmt": "risk country as requested by Eastspring (Vishal Maheshwari)",
+              "seqNum": 7,
+              "userId": "mtang"
+            },
+            {
+              "effDt": "2018-05-01",
+              "instmt": "AIRec",
+              "seqNum": 8,
+              "userId": "p9pstapl"
+            },
+            {
+              "effDt": "2018-05-02",
+              "instmt": "AIRec Factors",
+              "seqNum": 9,
+              "userId": "p9pstapl"
+            }
+          ]
+        },
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "NY_Bank",
+        "pmtFreqType": "0",
+        "pmtLocation": "D",
+        "priceAsPct": "Y",
+        "prinFreq": "S",
+        "putCall": "S",
+        "putMandatory": "N",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2016-08-30",
+              "value": "Aa1"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2016-08-31",
+              "value": "AA"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2018-07-26",
+              "value": "AA+"
+            },
+            {
+              "agencyid": 21,
+              "agy": 21,
+              "date": "2016-09-12",
+              "value": "NR"
+            },
+            {
+              "agencyid": 22,
+              "agy": 22,
+              "date": "2016-09-12",
+              "value": "NR"
+            },
+            {
+              "agencyid": 23,
+              "agy": 23,
+              "date": "2016-09-12",
+              "value": "NR"
+            },
+            {
+              "agencyid": 52,
+              "agy": 52,
+              "date": "2016-08-31",
+              "value": "STA"
+            },
+            {
+              "agencyid": 53,
+              "agy": 53,
+              "date": "2018-07-26",
+              "value": "STA"
+            },
+            {
+              "agencyid": 201,
+              "agy": 201,
+              "date": "2016-08-30",
+              "value": "Aa1"
+            },
+            {
+              "agencyid": 202,
+              "agy": 202,
+              "date": "2016-09-12",
+              "value": "NR"
+            },
+            {
+              "agencyid": 203,
+              "agy": 203,
+              "date": "2018-07-26",
+              "value": "AA+"
+            }
+          ]
+        },
+        "reviewedBy": "adapjoy",
+        "riskCountry": "US",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "BND_MUNITAX",
+        "sectorCode": "POWER",
+        "sectorSet": {
+          "sectorRecord": [
+            {
+              "code": "LOAU",
+              "level": 1,
+              "sectorSource": "P",
+              "type": "BARC_SECT"
+            },
+            {
+              "code": "TPOW",
+              "level": 1,
+              "type": "ISS_ML"
+            },
+            {
+              "code": "PUBPWR",
+              "level": 1,
+              "type": "MUNI_IND"
+            },
+            {
+              "code": "REVENUE",
+              "level": 1,
+              "type": "MUNI_PF"
+            }
+          ]
+        },
+        "settleCal": "US_BMA",
+        "settleLocation": "D",
+        "sinkMandatory": "N",
+        "sinkSet": {
+          "sinkRecord": [
+            {
+              "amount": 3915000,
+              "date": "2017-05-01",
+              "price": 100
+            },
+            {
+              "amount": 4965000,
+              "date": "2018-05-01",
+              "price": 100
+            },
+            {
+              "amount": 5050000,
+              "date": "2019-05-01",
+              "price": 100
+            },
+            {
+              "amount": 51005000,
+              "date": "2020-05-01",
+              "price": 100
+            },
+            {
+              "amount": 186890000,
+              "date": "2021-05-01",
+              "price": 100
+            }
+          ]
+        },
+        "sinkType": "R",
+        "smSecGroup": "BND",
+        "smSecType": "MUNITAX",
+        "state": "CA",
+        "structure": "SENIOR",
+        "taxStatus": "S",
+        "ticker": "CASPWR",
+        "udfSet": {
+          "udfRecord": [
+            {
+              "label": "EXP_DFLT_MARGIN",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "2.80000000000000"
+            },
+            {
+              "label": "FINANCIAL_SEC",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "Non-Financial"
+            },
+            {
+              "label": "INTERNAL_SEDOL",
+              "purpose": "MNG",
+              "udfSource": "MNG",
+              "value": "9866270"
+            },
+            {
+              "label": "PPMG_SEDOL",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "9866270"
+            }
+          ]
+        },
+        "useOfProceeds": "Electric & public power",
+        "wiFlag": "N"
+      }
+    },
+    "BPM0X08D7": {
+      "assetId": "BPM0X08D7",
+      "CASH_CASH": {
+        "accrualDt": "2000-01-01",
+        "amtIsu": 1000,
+        "announceDt": "2000-01-01",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-03-29T12:02:40.746Z",
+        "compoundFlag": 0,
+        "country": "US",
+        "coupFreq": "A",
+        "couponFloat": -99,
+        "cpnType": "T",
+        "currency": "USD",
+        "cusip": "BPM0X08D7",
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "delay": 0,
+        "descInstmt": "USD OPTION OFFSET SECURITY",
+        "drdEligible": "N",
+        "endAdjFlag": "N",
+        "firstPayDt": "2001-01-01",
+        "firstPrinDt": "2001-01-01",
+        "firstSettleDt": "2000-01-01",
+        "flag144a": "N",
+        "flagEom": "N",
+        "flagErisa": "Y",
+        "flagPerforming": "Y",
+        "flagRegRights": "N",
+        "floaterSet": {
+          "floaterRecord": [
+            {
+              "endDt": "2050-01-01",
+              "featureCode": "m*Ind+r",
+              "firstCpnCalcDate": "2001-01-01",
+              "firstResetDate": "2001-01-01",
+              "flagIndexRound": "T",
+              "grossMargin": 0,
+              "index0": "NOINDEX",
+              "indexPrecision": 5,
+              "indx2": "NO INDEX",
+              "initialCoupon": 0,
+              "lookback": 0,
+              "lookbackAdjustMeth": "P",
+              "lookbackCal": "NY_Bank",
+              "lookbackConv": "B",
+              "margin": 0,
+              "mult": 1,
+              "resetCal": "NY_Bank",
+              "resetFreq": "W",
+              "resetFreqDtl": "1",
+              "resetTerm": 52,
+              "spread": 0,
+              "startDt": "2000-01-01"
+            }
+          ]
+        },
+        "issueDt": "2000-01-01",
+        "issueYield": 0,
+        "issuerId": "F70595",
+        "liquidity": "L",
+        "market": "GLBL",
+        "maturity": "2050-01-01",
+        "minLotSize": 0.01,
+        "minTrdSize": 0.01,
+        "modifiedBy": "p9tcordo",
+        "mtn": "N",
+        "notionalAmt": 1,
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "NY_Bank",
+        "pmtFreqType": "0",
+        "priceAsPct": "Y",
+        "prinFreq": "A",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2000-01-01",
+              "value": "NR"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2000-01-01",
+              "value": "NR"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2000-01-01",
+              "value": "NR"
+            }
+          ]
+        },
+        "reviewedBy": "p9tcordo",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_CASH",
+        "smSecGroup": "CASH",
+        "smSecType": "CASH",
+        "ticker": "OPT_OFFSET",
+        "wiFlag": "N"
+      }
+    },
+    "BPM19UKK6": {
+      "assetId": "BPM19UKK6",
+      "CASH_CD": {
+        "accrualDt": "2018-01-24",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-06-13T07:18:46.796Z",
+        "compoundFlag": 0,
+        "country": "GB",
+        "coupFreq": "A",
+        "couponFloat": 1.15875,
+        "cpnType": "T",
+        "currency": "GBP",
+        "cusip": "BPM19UKK6",
+        "cusipType": "DUMMY",
+        "dateConv": "ACT365",
+        "delayConv": "C",
+        "descInstmt": "PRUDENTIAL CAPITAL (SINGAPORE) PTE",
+        "endAdjFlag": "N",
+        "firstPayDt": "2019-01-24",
+        "firstSettleDt": "2018-01-24",
+        "flag144a": "N",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "flagPerforming": "Y",
+        "flagRegRights": "N",
+        "floaterSet": {
+          "floaterRecord": [
+            {
+              "endDt": "2019-01-24",
+              "featureCode": "m*Ind+r",
+              "firstResetDate": "2019-01-24",
+              "flagIndexRound": "T",
+              "grossMargin": 0,
+              "index0": "GBP1YLIB",
+              "indexPrecision": 5,
+              "indx2": "12M Libor",
+              "lookback": 2,
+              "lookbackAdjustMeth": "Previous",
+              "lookbackCal": "LN",
+              "lookbackConv": "B",
+              "margin": 0,
+              "mult": 1,
+              "resetCal": "LN",
+              "resetFreq": "A",
+              "resetFreqDtl": "y",
+              "resetTerm": 1,
+              "spread": 0,
+              "startDt": "2018-01-24"
+            }
+          ]
+        },
+        "issueDt": "2018-01-24",
+        "issuerId": "G24008",
+        "liquidity": "L",
+        "market": "GB",
+        "maturity": "2019-01-24",
+        "modifiedBy": "p9pstapl",
+        "mtn": "N",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2018-05-22",
+              "instmt": "PRUCAP ID added",
+              "seqNum": 1,
+              "userId": "p9nrober"
+            },
+            {
+              "effDt": "2018-06-13",
+              "instmt": "PRUCAP ID removed",
+              "seqNum": 2,
+              "userId": "p9pstapl"
+            }
+          ]
+        },
+        "notionalAmt": 1,
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "prospectus": "Not Applicable",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2018-06-13",
+              "value": "NA"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2018-06-13",
+              "value": "NA"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2018-06-13",
+              "value": "NA"
+            }
+          ]
+        },
+        "reviewedBy": "p9pstapl",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_CD",
+        "settleLocation": "F",
+        "smSecGroup": "CASH",
+        "smSecType": "CD",
+        "taxStatus": "T",
+        "ticker": "PRUCSI",
+        "wiFlag": "N"
+      }
+    },
+    "BPM0GMXN8": {
+      "assetId": "BPM0GMXN8",
+      "CASH_COLLATERAL": {
+        "accrualDt": "2017-01-10",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2017-11-15T17:00:18.183Z",
+        "compoundFlag": 0,
+        "country": "GB",
+        "coupFreq": "T",
+        "cpnType": "F",
+        "currency": "GBP",
+        "cusip": "BPM0GMXN8",
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "F_10888239",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "ACT360",
+        "descInstmt": "VARIATION MARGIN BARC LCHE GBP",
+        "endAdjFlag": "N",
+        "firstSettleDt": "2017-01-10",
+        "flag144a": "P",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "issueDt": "2017-01-10",
+        "issuerId": "G23918",
+        "liquidity": "L",
+        "market": "GB",
+        "modifiedBy": "p9jliao",
+        "mtn": "N",
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "D",
+        "priceAsPct": "Y",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2016-11-30",
+              "value": "NR"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2016-11-30",
+              "value": "NR"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2016-11-30",
+              "value": "NR"
+            }
+          ]
+        },
+        "reviewedBy": "p9jliao",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_COLLATERAL",
+        "settleLocation": "D",
+        "smSecGroup": "CASH",
+        "smSecType": "COLLATERAL",
+        "ticker": "BCMLCHVM",
+        "udfSet": {
+          "udfRecord": [
+            {
+              "label": "INTERNAL_SEDOL",
+              "purpose": "MNG",
+              "udfSource": "MNG",
+              "value": "9804526"
+            },
+            {
+              "label": "PPMG_SEDOL",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "9804526"
+            }
+          ]
+        },
+        "wiFlag": "N"
+      }
+    },
+    "7443M3HT4": {
+      "assetId": "7443M3HT4",
+      "CASH_CP": {
+        "accrualDt": "2018-05-22",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-05-22T13:28:51.886Z",
+        "compoundFlag": 0,
+        "country": "US",
+        "couponFix": 0,
+        "cpnType": "Z",
+        "currency": "USD",
+        "cusip": "7443M3HT4",
+        "cusipType": "CUSIP",
+        "dateConv": "ACT360",
+        "delayConv": "C",
+        "descInstmt": "PRUDENTIAL PLC",
+        "descInstmt2": "4-2",
+        "endAdjFlag": "N",
+        "firstPayDt": "2018-08-27",
+        "firstPrinDt": "2018-08-27",
+        "firstSettleDt": "2018-05-22",
+        "flag144a": "N",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "flagPerforming": "Y",
+        "flagRegRights": "N",
+        "issueDt": "2018-05-22",
+        "issuerId": "R55269",
+        "liquidity": "L",
+        "market": "US",
+        "maturity": "2018-08-27",
+        "modifiedBy": "p9dbenne",
+        "mtn": "N",
+        "notionalAmt": 1,
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "NY_Bank",
+        "pmtFreqType": "0",
+        "pmtLocation": "D",
+        "priceAsPct": "Y",
+        "prospectus": "Not Applicable",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2018-03-14",
+              "value": "P-1"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2006-06-23",
+              "value": "A-1"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2018-04-25",
+              "value": "F1"
+            },
+            {
+              "agencyid": 21,
+              "agy": 21,
+              "date": "2018-03-14",
+              "value": "A2"
+            },
+            {
+              "agencyid": 22,
+              "agy": 22,
+              "date": "2018-03-15",
+              "value": "A"
+            },
+            {
+              "agencyid": 23,
+              "agy": 23,
+              "date": "2018-04-25",
+              "value": "A"
+            },
+            {
+              "agencyid": 52,
+              "agy": 52,
+              "date": "2010-08-17",
+              "value": "NR"
+            }
+          ]
+        },
+        "reviewedBy": "AUTOREVU",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_CP",
+        "settleLocation": "D",
+        "smSecGroup": "CASH",
+        "smSecType": "CP",
+        "taxStatus": "T",
+        "ticker": "PRUFIN",
+        "wiFlag": "N"
+      }
+    },
+    "BPM1MDLV4": {
+      "assetId": "BPM1MDLV4",
+      "CASH_TD": {
+        "accrualDt": "2018-07-02",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-07-02T08:46:29.240Z",
+        "compoundFlag": 0,
+        "country": "GB",
+        "coupFreq": "T",
+        "couponFix": 0.678,
+        "cpnType": "F",
+        "currency": "GBP",
+        "cusip": "BPM1MDLV4",
+        "cusipType": "DUMMY",
+        "dateConv": "ACT365",
+        "delayConv": "C",
+        "descInstmt": "NATWEST MARKETS PLC GB",
+        "endAdjFlag": "N",
+        "firstPayDt": "2018-10-08",
+        "firstSettleDt": "2018-07-02",
+        "flag144a": "N",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "issueDt": "2018-07-02",
+        "issuerId": "R55597",
+        "liquidity": "N",
+        "market": "GB",
+        "maturity": "2018-10-08",
+        "modifiedBy": "tsgops",
+        "mtn": "N",
+        "notionalAmt": 1,
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "prospectus": "Not Applicable",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2018-07-16",
+              "value": "P-2"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2013-11-07",
+              "value": "A-2"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2018-05-15",
+              "value": "F2"
+            },
+            {
+              "agencyid": 21,
+              "agy": 21,
+              "date": "2018-07-16",
+              "value": "Baa2"
+            },
+            {
+              "agencyid": 22,
+              "agy": 22,
+              "date": "2015-06-09",
+              "value": "BBB+"
+            },
+            {
+              "agencyid": 23,
+              "agy": 23,
+              "date": "2018-05-15",
+              "value": "BBB+"
+            }
+          ]
+        },
+        "reviewedBy": "AUTOREVU",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_TD",
+        "settleLocation": "F",
+        "smSecGroup": "CASH",
+        "smSecType": "TD",
+        "taxStatus": "T",
+        "ticker": "RBS",
+        "wiFlag": "N"
+      }
+    },
+    "BPM1CL065": {
+      "assetId": "BPM1CL065",
+      "CASH_TPREPO": {
+        "accrualDt": "2018-01-25",
+        "announceDt": "2018-01-25",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-03-29T05:45:33.953Z",
+        "compoundFlag": 0,
+        "country": "EU",
+        "coupFreq": "T",
+        "couponFix": -0.52,
+        "cpnType": "F",
+        "currency": "EUR",
+        "cusip": "BPM1CL065",
+        "cusipType": "DUMMY",
+        "dateConv": "ACT360",
+        "delayConv": "C",
+        "descInstmt": "TRI-PARTY CITIBANK NA",
+        "descInstmt2": "12",
+        "endAdjFlag": "N",
+        "firstPayDt": "2018-12-24",
+        "firstSettleDt": "2018-01-25",
+        "flag144a": "N",
+        "flagEom": "N",
+        "flagErisa": "N",
+        "issueDt": "2018-01-25",
+        "issuerId": "172905",
+        "lastRegularPmt": "2018-12-24",
+        "liquidity": "N",
+        "market": "EURO",
+        "maturity": "2018-12-24",
+        "modifiedBy": "tsgops",
+        "mtn": "N",
+        "notionalAmt": 1,
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "TARGET",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "prospectus": "Not Applicable",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2018-11-29",
+              "value": "P-1"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2008-12-19",
+              "value": "A-1"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2018-06-21",
+              "value": "F1"
+            },
+            {
+              "agencyid": 21,
+              "agy": 21,
+              "date": "2017-11-14",
+              "value": "A1"
+            },
+            {
+              "agencyid": 22,
+              "agy": 22,
+              "date": "2016-12-16",
+              "value": "A+"
+            },
+            {
+              "agencyid": 23,
+              "agy": 23,
+              "date": "2018-06-21",
+              "value": "A+"
+            }
+          ]
+        },
+        "reviewedBy": "AUTOREVU",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "CASH_TPREPO",
+        "settleLocation": "F",
+        "smSecGroup": "CASH",
+        "smSecType": "TPREPO",
+        "structure": "TERM",
+        "taxStatus": "T",
+        "ticker": "CITB",
+        "wiFlag": "N"
+      }
+    },
+    "BRSBY2CY7": {
+      "assetId": "BRSBY2CY7",
+      "FUND_CLOSED_END": {
+        "accrualDt": "2011-04-13",
+        "amtIsu": 359196600,
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-07-13T17:13:43.386Z",
+        "compoundFlag": 0,
+        "country": "GB",
+        "coupFreq": "S",
+        "cpnType": "F",
+        "currency": "GBP",
+        "cusip": "BRSBY2CY7",
+        "cusip2Set": {
+          "cusip2Record": [
+            {
+              "code": "C",
+              "identifier": "B3KX4Q3"
+            },
+            {
+              "code": "I",
+              "identifier": "GG00B3KX4Q34"
+            },
+            {
+              "code": "R",
+              "identifier": "NBLS.L"
+            },
+            {
+              "code": "2",
+              "identifier": "NBLS LN"
+            }
+          ]
+        },
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "F_5459153",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            },
+            {
+              "code": 80,
+              "identifier": "G64294104",
+              "orgid": 80,
+              "purpose": "CINS"
+            },
+            {
+              "code": 70,
+              "identifier": "GG00B3KX4Q34",
+              "orgid": 70,
+              "purpose": "ISIN"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "D30360",
+        "delayConv": "C",
+        "descInstmt": "NB GLOBAL FLOATING RATE INCOME FUN",
+        "descInstmt2": "EB",
+        "endAdjFlag": "N",
+        "exchange": "LON",
+        "flag144a": "N",
+        "flagPerforming": "Y",
+        "issueDt": "2011-04-13",
+        "issuerId": "F25467",
+        "liquidity": "L",
+        "market": "GB",
+        "minLotSize": 1,
+        "minTrdSize": 1,
+        "modifiedBy": "sm_timestamp",
+        "mtn": "N",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2017-02-01",
+              "instmt": "risk country per PPMG",
+              "seqNum": 10,
+              "userId": "ntodorov"
+            }
+          ]
+        },
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "N",
+        "ratingSet": {
+          "ratingRecord": [
+            {
+              "agencyid": 1,
+              "agy": 1,
+              "date": "2011-06-13",
+              "value": "NR"
+            },
+            {
+              "agencyid": 2,
+              "agy": 2,
+              "date": "2011-06-13",
+              "value": "NR"
+            },
+            {
+              "agencyid": 3,
+              "agy": 3,
+              "date": "2011-06-13",
+              "value": "NR"
+            }
+          ]
+        },
+        "reviewedBy": "rohikuma",
+        "riskCountry": "GG",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FUND_CLOSED_END",
+        "sectorSet": {
+          "sectorRecord": [
+            {
+              "code": "8985",
+              "level": 1,
+              "sectorSource": "P",
+              "type": "ISS_FTSE"
+            },
+            {
+              "code": "STMM",
+              "level": 1,
+              "type": "REUT_SEGM"
+            }
+          ]
+        },
+        "settleLocation": "F",
+        "smSecGroup": "FUND",
+        "smSecType": "CLOSED_END",
+        "taxStatus": "T",
+        "ticker": "NBLS",
+        "udfSet": {
+          "udfRecord": [
+            {
+              "label": "PPMG_SEDOL",
+              "purpose": "PPMG",
+              "value": "B3KX4Q3"
+            },
+            {
+              "label": "SAA_SECTOR",
+              "purpose": "PPMG",
+              "value": "NEBR_FI_US"
+            }
+          ]
+        },
+        "wiFlag": "N"
+      }
+    },
+    "963CQM904": {
+      "assetId": "963CQM904",
+      "FUND_OPEN_END": {
+        "accrualDt": "2018-03-12",
+        "calcType": 0,
+        "cdInstmtType": "N/A",
+        "changeDt": "2018-08-24T17:10:09.640Z",
+        "compoundFlag": 0,
+        "country": "GB",
+        "coupFreq": "S",
+        "cpnType": "F",
+        "currency": "GBP",
+        "cusip": "963CQM904",
+        "cusipLogSet": {
+          "cusipLogRecord": [
+            {
+              "assetid": "BPM1QCNA6",
+              "date": "2018-08-06T10:04:43.956Z",
+              "old": "BPM1QCNA6"
+            },
+            {
+              "assetid": "BPM1B6J02",
+              "date": "2018-08-06T10:07:34.723Z",
+              "old": "BPM1B6J02"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "ACT365",
+        "delayConv": "C",
+        "descInstmt": "LIFE TREASURY POOL",
+        "endAdjFlag": "N",
+        "flag144a": "N",
+        "flagPerforming": "Y",
+        "issueDt": "2018-03-12",
+        "liquidity": "L",
+        "market": "GB",
+        "modifiedBy": "p9jliao",
+        "mtn": "N",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2018-08-06",
+              "instmt": "Added on requestPSheehan in relation to SS swift mapping",
+              "seqNum": 1,
+              "userId": "p9ngordo"
+            }
+          ]
+        },
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "N",
+        "redFreq": 12,
+        "reviewedBy": "p9jliao",
+        "riskCountry": "GB",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FUND_OPEN_END",
+        "settleLocation": "F",
+        "smSecGroup": "FUND",
+        "smSecType": "OPEN_END",
+        "subFreq": 12,
+        "taxStatus": "T",
+        "ticker": "LIFE",
+        "wiFlag": "N"
+      }
+    },
+    "BPM1DZUN3": {
+      "assetId": "BPM1DZUN3",
+      "FUND_STIF": {
+        "calcType": 0,
+        "cdInstmtType": "N/A",
+        "changeDt": "2018-04-30T11:22:21.410Z",
+        "compoundFlag": 0,
+        "country": "US",
+        "cpnType": "F",
+        "currency": "USD",
+        "cusip": "BPM1DZUN3",
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 70,
+              "identifier": "X9X9USDBIUD4",
+              "orgid": 70,
+              "purpose": "ISIN"
+            },
+            {
+              "code": 9491,
+              "identifier": "X9X9USDBIUD4",
+              "orgid": 9491,
+              "purpose": "CUST"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "delayConv": "C",
+        "descInstmt": "BLACKROCK INST US DOL SELECT IULSD",
+        "endAdjFlag": "N",
+        "flagPerforming": "Y",
+        "issuerId": "J23106",
+        "liquidity": "L",
+        "market": "US",
+        "modifiedBy": "p9jliao",
+        "mtn": "N",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2018-04-24",
+              "instmt": "Daily control check",
+              "seqNum": 1,
+              "userId": "p9hgoras"
+            },
+            {
+              "effDt": "2018-04-30",
+              "instmt": "Markit EDM",
+              "seqNum": 2,
+              "userId": "p9jliao"
+            }
+          ]
+        },
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "NY_Bank",
+        "pmtFreqType": "0",
+        "pmtLocation": "F",
+        "priceAsPct": "N",
+        "redFreq": 12,
+        "reviewedBy": "p9jliao",
+        "riskCountry": "US",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FUND_STIF",
+        "settleLocation": "F",
+        "smSecGroup": "FUND",
+        "smSecType": "STIF",
+        "subFreq": 12,
+        "taxStatus": "T",
+        "wiFlag": "N"
+      }
+    },
+    "GZ8201887": {
+      "assetId": "GZ8201887",
+      "FUTURE_FIN": {
+        "accrualDt": "2018-03-28",
+        "announceDt": "2018-11-29",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-09-14T17:05:30.393Z",
+        "compoundFlag": 0,
+        "contractPointValue": 1000,
+        "contractSize": 100000,
+        "contractTickerPfx": "G",
+        "country": "GB",
+        "currency": "GBP",
+        "cusip": "GZ8201887",
+        "cusip2Set": {
+          "cusip2Record": [
+            {
+              "code": "I",
+              "identifier": "GB00F75H9F84"
+            },
+            {
+              "code": "R",
+              "identifier": "FLGZ8"
+            }
+          ]
+        },
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "ESL4434759",
+              "orgid": 145986,
+              "purpose": "ESI"
+            },
+            {
+              "code": 145986,
+              "identifier": "F_14492956",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            },
+            {
+              "code": 275,
+              "identifier": "IFLLR           FF2018-12-270000000000000000000",
+              "orgid": 275,
+              "purpose": "AII"
+            },
+            {
+              "code": 9912,
+              "identifier": "R     IFLL181200000000000",
+              "orgid": 9912,
+              "purpose": "FUTRIC"
+            },
+            {
+              "code": 9912,
+              "identifier": "R     IFLL181231",
+              "orgid": 9912,
+              "purpose": "FUTRIC"
+            },
+            {
+              "code": 9912,
+              "identifier": "R     XLIF181200000000000",
+              "orgid": 9912,
+              "purpose": "FUTRIC"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "deliveryMethod": "P",
+        "descInstmt": "LONG GILT DEC 18",
+        "exchangeMic": "IFLL",
+        "expectedMaturity": "2018-12-31",
+        "firstSettleDt": "2018-03-28",
+        "futureClass": "GBOND",
+        "futureCode": "G",
+        "issueDt": "2018-03-28",
+        "liquidity": "L",
+        "market": "GB",
+        "maturity": "2018-12-27",
+        "minLotSize": 1,
+        "minTrdSize": 1,
+        "modifiedBy": "p9sthorn",
+        "notesSet": {
+          "notesRecord": [
+            {
+              "effDt": "2018-09-11",
+              "instmt": "ESI: Transferred from BPM1T1D67",
+              "seqNum": 1,
+              "userId": "p9pdebna"
+            }
+          ]
+        },
+        "ntlFlag": "Y",
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "priceMultiplier": 0.01,
+        "reviewedBy": "p9sthorn",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FUTURE_FIN",
+        "settleLocation": "F",
+        "smSecGroup": "FUTURE",
+        "smSecType": "FIN",
+        "tickValue": 10,
+        "ticker": "G Z8",
+        "tickerPfx": "G",
+        "wiFlag": "N"
+      }
+    },
+    "A5Q820183": {
+      "assetId": "A5Q820183",
+      "FUTURE_INDEX": {
+        "accrualDt": "2018-03-01",
+        "assetBenchmark": "BRT1R1740",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-08-20T18:04:24.816Z",
+        "compoundFlag": 0,
+        "contractPointValue": 100,
+        "contractSize": 100,
+        "contractTickerPfx": "A5",
+        "country": "TR",
+        "currency": "TRY",
+        "cusip": "A5Q820183",
+        "cusip2Set": {
+          "cusip2Record": [
+            {
+              "code": "I",
+              "identifier": "TRVXIST011T1"
+            },
+            {
+              "code": "R",
+              "identifier": "XU030Q8"
+            }
+          ]
+        },
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 9912,
+              "identifier": "A5    XTUR180800000000000",
+              "orgid": 9912,
+              "purpose": "FUTRIC"
+            },
+            {
+              "code": 275,
+              "identifier": "XFNOBIST30      FF2018-08-310000000000000000000",
+              "orgid": 275,
+              "purpose": "AII"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "deliveryMethod": "C",
+        "descInstmt": "BIST 30 FUTURES AUG 18",
+        "exchangeMic": "XIST",
+        "expectedMaturity": "2018-08-31",
+        "firstSettleDt": "2018-03-01",
+        "futureClass": "EQINDX",
+        "futureCode": "A5",
+        "issueDt": "2018-03-01",
+        "liquidity": "L",
+        "market": "TR",
+        "maturity": "2018-08-31",
+        "minLotSize": 1,
+        "minTrdSize": 1,
+        "modifiedBy": "sm_timestamp",
+        "ntlFlag": "Y",
+        "pmtLocation": "F",
+        "priceAsPct": "N",
+        "priceMultiplier": 1,
+        "reviewedBy": "p9pasoga",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FUTURE_INDEX",
+        "settleLocation": "F",
+        "smSecGroup": "FUTURE",
+        "smSecType": "INDEX",
+        "tickValue": 2.5,
+        "ticker": "A5Q8",
+        "tickerPfx": "A5",
+        "wiFlag": "N"
+      }
+    },
+    "BPM11MWT0": {
+      "assetId": "BPM11MWT0",
+      "FX_FWRD": {
+        "accrualDt": "2017-10-26",
+        "assetBenchmark": "EURGBP",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2017-11-20T17:59:06.553Z",
+        "country": "GB",
+        "couponFix": -100,
+        "currency": "GBP",
+        "cusip": "BPM11MWT0",
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "descInstmt": "EUR/GBP",
+        "descInstmt2": "EUR",
+        "firstSettleDt": "2020-02-24",
+        "flag144a": "N",
+        "issueDt": "2017-10-26",
+        "issuePrice": 0.87513,
+        "liquidity": "L",
+        "market": "EURO",
+        "maturity": "2020-02-24",
+        "minLotSize": 0.01,
+        "minTrdSize": 0.01,
+        "modifiedBy": "tsgops",
+        "mtn": "N",
+        "ntlFlag": "N",
+        "priceAsPct": "N",
+        "reviewedBy": "AUTOREVU",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FX_FWRD",
+        "settleCal": "LN",
+        "smSecGroup": "FX",
+        "smSecType": "FWRD",
+        "ticker": "EUR",
+        "wiFlag": "N"
+      }
+    },
+    "BPM12PU72": {
+      "assetId": "BPM12PU72",
+      "FX_SPOT": {
+        "accrualDt": "2017-12-06",
+        "assetBenchmark": "GBPUSD",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2017-12-06T09:49:57.513Z",
+        "country": "GB",
+        "couponFix": -100,
+        "currency": "GBP",
+        "cusip": "BPM12PU72",
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "descInstmt": "USD/GBP",
+        "descInstmt2": "USD",
+        "firstSettleDt": "2018-10-25",
+        "flag144a": "N",
+        "issueDt": "2017-12-06",
+        "issuePrice": 1.354575,
+        "liquidity": "L",
+        "market": "US",
+        "maturity": "2018-10-25",
+        "minLotSize": 0.01,
+        "minTrdSize": 0.01,
+        "modifiedBy": "p9arobso",
+        "mtn": "N",
+        "ntlFlag": "N",
+        "priceAsPct": "N",
+        "reviewedBy": "AUTOREVU",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "FX_SPOT",
+        "smSecGroup": "FX",
+        "smSecType": "SPOT",
+        "ticker": "USD",
+        "wiFlag": "N"
+      }
+    },
+    "BPM05SN73": {
+      "assetId": "BPM05SN73",
+      "OPTION_CUROTC": {
+        "accrualDt": "2014-04-17",
+        "assetBenchmark": "EURGBP",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2016-10-27T12:50:09.160Z",
+        "country": "GB",
+        "couponFix": 0.8625,
+        "currency": "EUR",
+        "cusip": "BPM05SN73",
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "T_40155375",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            }
+          ]
+        },
+        "cusipType": "DUMMY",
+        "dateConv": "ACTACT",
+        "deliveryDate": "2019-04-18",
+        "descInstmt": "EUR P GBP C @0.862500 EO",
+        "exerciseType": "E",
+        "expDt": "2019-04-16",
+        "issueDt": "2014-04-17",
+        "liquidity": "L",
+        "market": "GB",
+        "maturity": "2019-04-16",
+        "minTrdSize": 1,
+        "modifiedBy": "rmuktido",
+        "notionalFace": 1,
+        "ntlFlag": "Y",
+        "optionCallPut": "P",
+        "priceAsPct": "Y",
+        "reviewedBy": "AUTOREVU",
+        "secType": "OPTION_CUROTC",
+        "settleMethod": "P",
+        "smSecGroup": "OPTION",
+        "smSecType": "CUROTC",
+        "strike": 0.8625,
+        "ticker": "PUT EUR/GBP",
+        "underlyingCusip": "EUR/GBP",
+        "wiFlag": "N"
+      }
+    },
+    "BPM13SXW7": {
+      "assetId": "BPM13SXW7",
+      "OPTION_EQUITY": {
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-08-28T16:19:46.466Z",
+        "country": "GB",
+        "couponFix": 3900,
+        "currency": "GBP",
+        "cusip": "BPM13SXW7",
+        "cusipType": "DUMMY",
+        "dateConv": "AC365L",
+        "descInstmt": "DEC20 UKX  P @ 3900",
+        "exchange": "OTC",
+        "exerciseType": "E",
+        "expDt": "2020-12-18",
+        "futureCode": "UKX",
+        "liquidity": "L",
+        "market": "GB",
+        "maturity": "2020-12-18",
+        "minTrdSize": 1,
+        "modifiedBy": "p9jliao",
+        "notionalFace": 1,
+        "ntlFlag": "Y",
+        "optionCallPut": "P",
+        "priceAsPct": "N",
+        "riskCountry": "GB",
+        "secType": "OPTION_EQUITY",
+        "settleCal": "LN",
+        "settleMethod": "C",
+        "smSecGroup": "OPTION",
+        "smSecType": "EQUITY",
+        "strike": 3900,
+        "ticker": "UKX  OTC",
+        "underlyingCusip": "UKX000007",
+        "wiFlag": "N"
+      }
+    },
+    "BMS03YS03": {
+      "assetId": "BMS03YS03",
+      "SWAP_CSWAP": {
+        "accrualDt": "2007-03-15",
+        "baseLeg": "RECEIVE",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-06-18T14:26:21.150Z",
+        "country": "US",
+        "currency": "GBP",
+        "cusip": "BMS03YS03",
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "F_2801391",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            }
+          ]
+        },
+        "cusipPay": "BMS03YS29",
+        "cusipReceive": "BMS03YS11",
+        "cusipType": "DUMMY",
+        "dateConv": "ACT365",
+        "descInstmt": "CSWAP: GBP/USD 21-FEB-2029 AMORT",
+        "firstSettleDt": "2007-03-15",
+        "issueDt": "2007-03-15",
+        "issuerId": "905309",
+        "liquidity": "N",
+        "market": "US",
+        "maturity": "2029-02-21",
+        "modifiedBy": "p9jliao",
+        "ntlFlag": "N",
+        "payNotional": 60000000,
+        "payUpfrontPmt": 60000000,
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "recNotional": 30975736,
+        "recUpfrontPmt": 30975736,
+        "reviewedBy": "p9jliao",
+        "secDesc2": "USD",
+        "secType": "SWAP_CSWAP",
+        "settleLocation": "F",
+        "smSecGroup": "SWAP",
+        "smSecType": "CSWAP",
+        "structure": ".5 YR",
+        "ticker": "UBSA",
+        "udfSet": {
+          "udfRecord": [
+            {
+              "label": "INTERNAL_SEDOL",
+              "purpose": "MNG",
+              "udfSource": "MNG",
+              "value": "9229196"
+            },
+            {
+              "label": "MAGREC_ASSET",
+              "purpose": "BRS",
+              "value": "Currency Swap"
+            },
+            {
+              "label": "PPMG_SEDOL",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "9229196"
+            }
+          ]
+        },
+        "wiFlag": "N"
+      }
+    },
+    "BMS03PXA4": {
+      "assetId": "BMS03PXA4",
+      "SWAP_SWAP": {
+        "accrualDt": "2015-12-31",
+        "baseLeg": "RECEIVE",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-04-12T16:41:26.080Z",
+        "country": "GB",
+        "currency": "GBP",
+        "cusip": "BMS03PXA4",
+        "cusipAliasSet": {
+          "cusipAliasRecord": [
+            {
+              "code": 145986,
+              "identifier": "F_11018855",
+              "orgid": 145986,
+              "purpose": "PPMG"
+            }
+          ]
+        },
+        "cusipPay": "BMS03PXC0",
+        "cusipReceive": "BMS03PXB2",
+        "cusipType": "DUMMY",
+        "dateConv": "D30360",
+        "descInstmt": "BESPOKE:FSWP: IFS FLR 2.93 1/10/20",
+        "firstSettleDt": "2015-12-30",
+        "issueDt": "2015-12-30",
+        "issuerId": "R55597",
+        "liquidity": "L",
+        "market": "GB",
+        "maturity": "2028-01-10",
+        "modifiedBy": "p9jliao",
+        "ntlFlag": "Y",
+        "payCurrency": "GBP",
+        "payNotional": 1,
+        "payUpfrontPmt": 0,
+        "pmtLocation": "F",
+        "priceAsPct": "Y",
+        "recNotional": 1,
+        "recUpfrontPmt": 0,
+        "reviewedBy": "p9jliao",
+        "secDesc2": "LPI",
+        "secType": "SWAP_SWAP",
+        "settleCal": "LN",
+        "settleLocation": "F",
+        "smSecGroup": "SWAP",
+        "smSecType": "SWAP",
+        "structure": ".5 YR",
+        "ticker": "RBS",
+        "udfSet": {
+          "udfRecord": [
+            {
+              "label": "DERIV_TEMPLATE",
+              "purpose": "TEMPLATE",
+              "udfSource": "shortcut",
+              "value": "LPI"
+            },
+            {
+              "label": "INTERNAL_SEDOL",
+              "purpose": "MNG",
+              "udfSource": "MNG",
+              "value": "9813588"
+            },
+            {
+              "label": "MAGREC_ASSET",
+              "purpose": "BRS",
+              "value": "Inflation Swap"
+            },
+            {
+              "label": "PPMG_ML",
+              "purpose": "PPMG",
+              "udfSource": "PPMG"
+            },
+            {
+              "label": "PPMG_SEDOL",
+              "purpose": "PPMG",
+              "udfSource": "PPMG",
+              "value": "9813588"
+            }
+          ]
+        },
+        "wiFlag": "N"
+      }
+    },
+    "BMS03PUM1": {
+      "assetId": "BMS03PUM1",
+      "SYNTH_CAP": {
+        "accrualDt": "2010-10-05",
+        "calcType": 0,
+        "cdInstmtType": "UNKNOWN",
+        "changeDt": "2018-12-28T10:59:50.896Z",
+        "compoundFlag": 0,
+        "country": "US",
+        "coupFreq": "Q",
+        "couponFloat": 0,
+        "cpnType": "T",
+        "currency": "USD",
+        "cusip": "BMS03PUM1",
+        "cusipType": "DUMMY",
+        "dateConv": "ACT360",
+        "descInstmt": "CDS: (UKT)",
+        "endAdjFlag": "Y",
+        "firstPayDt": "2010-12-20",
+        "firstSettleDt": "2010-10-05",
+        "flagEom": "N",
+        "floaterSet": {
+          "floaterRecord": [
+            {
+              "endDt": "2020-12-20",
+              "featureCode": "m*Ind+s",
+              "firstResetDate": "2010-10-05",
+              "flagIndexRound": "R",
+              "grossMargin": 0,
+              "index0": "NOINDEX",
+              "indx2": "FIXED",
+              "initialCoupon": 0,
+              "lookbackAdjustMeth": "Previous",
+              "lookbackConv": "B",
+              "margin": 0,
+              "mult": 1,
+              "resetCal": "NY_Bank|LN",
+              "resetFreq": "Q",
+              "resetFreqDtl": "q",
+              "resetTerm": 4,
+              "spread": 0,
+              "startDt": "2010-10-05",
+              "suspensionDayConv": "Business"
+            }
+          ]
+        },
+        "issueDt": "2010-10-05",
+        "issuerId": "251525",
+        "liquidity": "L",
+        "market": "US",
+        "maturity": "2020-12-20",
+        "modifiedBy": "ntodorov",
+        "ntlFlag": "N",
+        "pmtAdjMeth": "F",
+        "pmtCal": "NY_Bank|LN",
+        "pmtFreqType": "0",
+        "pmtLocation": "P",
+        "priceAsPct": "Y",
+        "roundFlag": "R",
+        "roundPrecision": 9,
+        "secType": "SYNTH_CAP",
+        "settleLocation": "P",
+        "smSecGroup": "SYNTH",
+        "smSecType": "CAP",
+        "strikeCap": 0,
+        "ticker": "DMGN",
+        "wiFlag": "N"
+      }
+    }
+  },
+  "errors": {
+    "912796NV7": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BPM0TZLH1": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "05357HAA8": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "05526QAE6": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "Z923SFWP2": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "00123Q104": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "63946CAE8": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BPM04VEE2": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "B0A0EAEB1": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "B06734907": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "912828LA6": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BRT82HVN8": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BMS03QU56": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BMS03PUN9": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BPM13P7G7": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "BPM13P7H5": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    },
+    "026874156": {
+      "code": "NOT_FOUND",
+      "message": "Aladdin® did not find the resource requested or is unwilling to disclose if it exists. Could indicate a defect in the client program or data which is no longer accessible."
+    }
+  }
+}
